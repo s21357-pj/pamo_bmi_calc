@@ -1,0 +1,7 @@
+<resources>
+   <string name="app_name">BMI Calculator</string>
+   <string name="enter_amount">Enter Amount</string>
+   <string name="wzrost_cm">Wzrost cm</string>
+   <string name="waga_kg">Waga kg</string>
+   <string name="wynik">Wynik</string>
+</resources>

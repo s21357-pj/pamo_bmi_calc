@@ -1,7 +1,36 @@
 <resources>
-   <string name="app_name">BMI Calculator</string>
-   <string name="enter_amount">Enter Amount</string>
-   <string name="wzrost_cm">Wzrost cm</string>
-   <string name="waga_kg">Waga kg</string>
-   <string name="wynik">Wynik</string>
+    <string name="app_name">Zadanie 2</string>
+    <string name="title_home">Home</string>
+    <string name="title_calculator_bmi">BMI calculator</string>
+    <string name="title_calculator_bh">B-H calculator</string>
+    <string name="title_result" />
+    <string name="enter_amount">Enter Amount</string>
+    <string name="wzrost_cm">Wzrost cm</string>
+    <string name="waga_kg">Waga kg</string>
+    <string name="wynik">Wynik</string>
+    <string name="gender">Płeć</string>
+    <string-array name="gender_array">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>>
+    </string-array>
+    <string name="wiek">Wiek</string>
+    <string name="recipe">Stek. 370 kkal.\n
+\n
+    Składniki: mięso wołowe (250g), sól, pieprz, olej.\n
+\n
+    Pozostaw mięso na blacie na 30 minut.\n
+    Posól i popieprz mięso z obu stron.\n
+    Rozgrzej olej na patelni.\n
+    Smaż mięso przez 3-4 minuty z każdej strony.\n
+    Odstaw stek na kilka minut przed podaniem.\n
+\n
+    Jajecznica. 148 kkal.\n
+    Składniki: 3 jajka, 2 łyżki mleka, sól, pieprz, 1 łyżka masła.\n
+\n
+    Wymieszaj jajka z mlekiem, solą i pieprzem.\n
+    Rozgrzej masło na patelni.\n
+    Wlej jajka na patelnię.\n
+    Smaż i mieszaj jajecznicę aż się ścięgnie.\n
+    Podawaj natychmiast.\n
+    </string>
 </resources>
