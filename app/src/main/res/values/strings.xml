@@ -3,6 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_calculator_bmi">BMI calculator</string>
     <string name="title_calculator_bh">B-H calculator</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_chart">Chart</string>
     <string name="title_result" />
     <string name="enter_amount">Enter Amount</string>
     <string name="wzrost_cm">Wzrost cm</string>
@@ -33,4 +35,22 @@
     Smaż i mieszaj jajecznicę aż się ścięgnie.\n
     Podawaj natychmiast.\n
     </string>
+        <!--All the string resources come here including Questions and title -->
+        <string name="correct"><b>CORRECTNESS IS</b> \n
+						<b>%1$d</b> OUT OF 6</string>
+        <string name="true_text">true</string>
+        <string name="false_text">false</string>
+        <string name="correct_answer">That\'s correct</string>
+        <string name="wrong_answer">That\'s incorrect</string>
+        <string name="a">Czy burgery są zdrowe?</string>
+        <string name="b">Dieta 2000 kcal jest obecnie uważana
+            za standardową ilość kalorii w przypadku większości osób dorosłych</string>
+        <string name="c">jedzenie o regularnych porach jest zalecane</string>
+        <string name="d">Miód może zastąpić biały cukier </string>
+        <string name="e">Dwie godziny przed snem najlepiej spożyć ostatni posiłek</string>
+        <string name="f">2 litry wody powinno się pić w ciągu dnia</string>
+        <string name="next_text">next</string>
+        <string name="prev_text">previous</string>
+    <string name="recipes">Recipes</string>
+
 </resources>

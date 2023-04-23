@@ -15,7 +15,14 @@
         android:id="@+id/navigation_calculator_bmi"
         android:name="com.example.myapplication.ui.bmi.BmiFragment"
         android:label="@string/title_calculator_bmi"
-        tools:layout="@layout/fragment_bmi" />
+        tools:layout="@layout/fragment_bmi" >
+        <action
+            android:id="@+id/action_navigation_calculator_bmi_to_navigation_result"
+            app:destination="@id/navigation_result"
+            app:launchSingleTop="false"
+            app:popUpTo="@id/navigation_calculator_bmi"
+            app:popUpToInclusive="true" />
+    </fragment>
 
     <fragment
         android:id="@+id/navigation_calculator_bc"
@@ -28,4 +35,12 @@
         android:name="com.example.myapplication.ui.result.ResultFragment"
         android:label="@string/title_result"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="com.example.myapplication.ui.quiz.QuizFragment"
+        android:label="@string/title_quiz" />
+    <fragment
+        android:id="@+id/navigation_chart"
+        android:name="com.example.myapplication.ui.chart.ChartFragment"
+        android:label="@string/title_chart" />
 </navigation>
